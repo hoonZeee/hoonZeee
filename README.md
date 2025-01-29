@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG]([https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text](https://readme-typing-svg.demolab.com/demo/?color=00F75C&background=FFFFFF00&center=true&vCenter=true&lines=Welcome+to+Jihoon+GitHub))](https://git.io/typing-svg)
-
-<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Welcome+to+JIhoon's+GitHub)](https://git.io/typing-svg)
 **hoonZeee/hoonZeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
