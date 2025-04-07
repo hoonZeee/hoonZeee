@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonZeee&show_icons=true&theme=radical)
 
-<h4>Developed and deployed a full-stack personal website from scratch, including server setup, domain integration, and search engine verification.</h4>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align=center>
 	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
